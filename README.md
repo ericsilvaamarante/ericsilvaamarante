@@ -1,16 +1,10 @@
-### Hi there 👋
+### bem vindo ao meu perfil! 🙂
 
-<!--
-**ericsilvaamarante/ericsilvaamarante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Eric Silva Amarante
 
-Here are some ideas to get you started:
+-estou estudando na plataforma ALURA.
+-estou me desenvolvendo nas linguagens JAVA SCPRIPT, HTML e CSS.
+-utiliso este espaço para minha organização e compartilhamento dos meus projetos
 
-- 🔭 I’m currently working on ... nothing because I am in college
-- 🌱 I’m currently learning ... about progaming
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###voce pode entrar em contado comigo 📧
+eric.amarante@escola.pr.gov.br
